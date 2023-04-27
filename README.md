@@ -1,7 +1,7 @@
 
-# TRAC TRAIN 2022
+# TRAC TRAIN 2023
 
-MKDocs website for TRAC TRAIN 2022
+MKDocs website for TRAC TRAIN 2023
 
 # Development
 
@@ -10,8 +10,8 @@ MKDocs website for TRAC TRAIN 2022
 Follow the [Material for MKDocs instructions](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ```
-$ git clone TranslationalAICenterISU/tractrain2022
-$ cd tractrain2022
+$ git clone TranslationalAICenterISU/aitrends2023
+$ cd aitrends2023
 $ pip install mkdocs-material
 $ mkdocs serve
 ```
