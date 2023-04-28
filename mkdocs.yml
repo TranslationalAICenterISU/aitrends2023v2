@@ -23,6 +23,13 @@ nav:
     - 'Schedule': getting_started/schedule.md
   - 'Sections':
     - '1. Introduction': sections/m01_intro.md
+    - '2. Basics of AI': sections/m02_basics.md
+    - '3. Multiple Modalities of Data': sections/m03_multimod.md
+    - '4. Novel Algorithms': sections/m04_novelalgo.md
+    - '5. Generative AI': sections/m05_generative.md
+    - '6. AI in Science & Science in AI': sections/m06_aiscience.md
+    - '7. Trends in AI': sections/m07_trends.md
+    - '8. Concluding Remarks': sections/m08_conclusions.md
 
 # JavaScript for Intercom Widget
 extra_javascript:
