@@ -1,6 +1,6 @@
 
 # Welcome to TrAC Training on 
-# "Demystifying Trending AI Techniques"
+# "DEMYSTIFYING TRENDING AI TECHNIQUES"
 
 <p align="center">
   <img width="500" src="assets/logo.png">
