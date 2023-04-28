@@ -10,7 +10,7 @@ site_url: 'https://translationalaicenterisu.github.io/aitrends2023'
 edit_uri: edit/mkdocs/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2022 Iowa State University'
+copyright: 'Copyright &copy; 2023 Iowa State University'
 
 # Navigation Page
 
@@ -21,9 +21,6 @@ nav:
     - 'Code of Conduct': getting_started/code_conduct.md
     - 'Logistics': getting_started/logistics.md
     - 'Schedule': getting_started/schedule.md
-  - 'Cloud Services':
-    - 'Jetstream-2': cloud/js2.md
-    - 'GitHub CodeSpaces': cloud/codespaces.md
 
 # JavaScript for Intercom Widget
 extra_javascript:
