@@ -25,6 +25,6 @@ Hi all! welcome to TrAC training on **Demystifying Trending AI Techniques**.
 
 3. [:material-timetable: Schedule](./getting_started/schedule.md)
 
-4. [:material-bookmark: Resources](./docs/sections/resources.md)
+4. [:material-bookmark: Resources](./sections/resources.md)
 
 -----------------------------------------------------------------------
