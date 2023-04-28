@@ -1,9 +1,9 @@
 
 1. **Introduction**
 	1. Tools for generating images using description
-		1. [https://beta.dreamstudio.ai/generate](https://beta.dreamstudio.ai/generate)
-		2. [https://huggingface.co/spaces/stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-		3. [https://www.bing.com/create](https://www.bing.com/create)
+		1. [https://beta.dreamstudio.ai/generate](https://beta.dreamstudio.ai/generate)
+		2. [https://huggingface.co/spaces/stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+		3. [https://www.bing.com/create](https://www.bing.com/create)
 	2. Research paper collection
 		1. https://aman.ai/papers/
 	3. Improving deep learning performance
