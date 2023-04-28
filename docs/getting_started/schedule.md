@@ -1,5 +1,5 @@
 # Schedule
-<br>
+
 **All times shown in Central Daylight Time**
 <br>
 **Date**: April 28th, 2023
