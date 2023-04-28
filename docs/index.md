@@ -1,13 +1,14 @@
 
-# Welcome to TrAC Training on "A Deep Dive into Deep Learning Architectures and Algorithms"
+# Welcome to TrAC Training on 
+# "Demystifying Trending AI Techniques"
 
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
 
-Hi all! welcome to TrAC training on **A Deep Dive into Deep Learning Architectures and Algorithms**. 
+Hi all! welcome to TrAC training on **Demystifying Trending AI Techniques**. 
 
-This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Cyverse](https://cyverse.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
+<!-- This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Cyverse](https://cyverse.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
 
 <br></br>
 
@@ -22,7 +23,7 @@ This tutorial is possible because of the resources coming from [AIIRA](https://a
   <img width="450" src="assets/de/logos/cyverse_logo_2022.png">
   <span> </span>
   <img width="300" src="assets/jetstream2.png">
-</p>
+</p> -->
 
 
 <!-- 
@@ -40,7 +41,7 @@ This tutorial is possible because of the resources coming from [AIIRA](https://a
 
 -----------------------------------------------------------------------
 
-**Funding and Citations:**
+<!-- **Funding and Citations:**
 
 AI Institute for Resilient Agriculture (AIIRA) is supported by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} and United States Department of Agriculture - National Institute of Food and Agriculture award \#2021-67021-35329
 
@@ -53,4 +54,4 @@ CyVerse is funded entirely by the National Science Foundation [![NSF](assets/nsf
 [![NSF-0735191](https://img.shields.io/badge/NSF-0735191-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191){target=_blank}  [![NSF-1265383](https://img.shields.io/badge/NSF-1265383-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383){target=_blank}  [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442){target=_blank}
 
 Please cite CyVerse appropriately when you make use of our resources; see [CyVerse citation policy](https://cyverse.org/policies/cite-cyverse){target=_blank}.
-
+ -->
