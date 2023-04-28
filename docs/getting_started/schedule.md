@@ -1,13 +1,13 @@
 # Schedule
 
 **All times shown in Central Daylight Time**
-<br>
+
 **Date**: April 28th, 2023
-<br>
+
 **Time**: 1 PM – 5 PM
-<br>
+
 **Venue**: Hoover 2055
-<br>
+
 
 | Time | Concept | 
 |------|---------|
