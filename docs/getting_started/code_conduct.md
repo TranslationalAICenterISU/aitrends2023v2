@@ -2,7 +2,7 @@
 
 All attendees, speakers, staff, and volunteers are required to follow our code of conduct.
 
-CyVerse expects and appreciates cooperation from all participants to help ensure a safe, collaborative environment for everyone. Harrassment by any individual will not be tolerated and may result in the individual being removed from the Camp.
+Iowa State University expects and appreciates cooperation from all participants to help ensure a safe, collaborative environment for everyone. Harrassment by any individual will not be tolerated and may result in the individual being removed from the Camp.
 
 Harassment includes: offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
