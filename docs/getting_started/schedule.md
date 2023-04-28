@@ -4,9 +4,9 @@
 
 | Time | Concept | Notes |
 |------|---------|-------|
-| 09:00 | Intro to Deep Learning (backpropagation, SGD and other concepts) | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks)  1, 2, 3|
-| 10:00 | Convolutional Neural Networks – Architectures for Object Recognition | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 4, 5, 6 |
-| 10:55 | Short  Break | |
+| 01:00p - 1:15p | Introduction | |
+| 01:15 - 1:30 | Basics of AI | |
+| 01:30 - 02:00| Multiple modalities of Data to enhance AI | |
 | 11:00 | Convolutional Neural Networks – Architectures of Object Detection, Semantic Segmentation, Autoencoders, etc. | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 7 |
 | 12:00 | Lunch Break | |
 | 13:30 | More architectures – LSTMs, Transformers, etc. | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 8, 9 |
