@@ -21,6 +21,7 @@ nav:
     - 'Code of Conduct': getting_started/code_conduct.md
     - 'Logistics': getting_started/logistics.md
     - 'Schedule': getting_started/schedule.md
+    - 'Resources': sections/resources.md
   - 'Sections':
     - '1. Introduction': sections/m01_intro.md
     - '2. Basics of AI': sections/m02_basics.md
