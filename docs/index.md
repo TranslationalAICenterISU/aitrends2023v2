@@ -1,7 +1,7 @@
+<h2 style="text-align: center;">Welcome to TrAC Training on </h2>
+<h1 style="text-align: center;">Demystifying Trending AI Techniques</h1>
 
-# Welcome to TrAC Training on
-# DEMYSTIFYING TRENDING AI TECHNIQUES
-
+<br>
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
