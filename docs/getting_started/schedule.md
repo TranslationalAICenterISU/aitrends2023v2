@@ -2,7 +2,7 @@
 
 **All times shown in Central Daylight Time**
 
-**Date**: April 28th, 2023
+**Date**: October 20th, 2023
 
 **Time**: 1 PM – 5 PM
 
