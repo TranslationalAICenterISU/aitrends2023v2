@@ -25,7 +25,7 @@ Hi all! welcome to TrAC training on **Demystifying Trending AI Techniques**.
 
 3. [:material-timetable: Schedule](./getting_started/schedule.md)
 
-4. [:book: Tutorial Slides](https://iastate.app.box.com/folder/206870078491)
+4. [:book: Tutorial Slides](https://iastate.box.com/s/rdx3mnrgnbum5ap2sf1qzub1zkip9rud) 
 
 5. [:material-bookmark: External Resources](./sections/resources.md)
 
