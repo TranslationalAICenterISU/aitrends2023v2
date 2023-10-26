@@ -12,11 +12,11 @@
 Hi all! welcome to TrAC training on **Demystifying Trending AI Techniques**. 
 <br>
 <br>
-**Date**: April 28th, 2023
+**Date**: October 20th, 2023
 <br>
 **Time**: 1 PM – 5 PM
 <br>
-**Venue**: Hoover 2055
+**Venue**: Online (zoom)
 ## Before you get started, please read our:
 
 1. [:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
